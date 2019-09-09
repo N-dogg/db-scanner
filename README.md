@@ -29,6 +29,9 @@ Documents
 
 Hypotheses
 -------------------
+
+Overall goal is to develop a framework for identifying at risk companies using a small population of key financial ratios. The following are the projects hypotheses:
+
  - Financial ratios are good indicators of a business and its operations
  - DBSCAN algorithm will be effective at identifying clusters of differing density, size and shape
  - Points identified as 'noise' can be the basis for further analysis of potentially risky companies
