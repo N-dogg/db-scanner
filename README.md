@@ -39,7 +39,7 @@ Process
 -------------
 From paper 2, we note it is important to first separate the data into common domains to ensure we are comparing data points with common characteristics. In this case study on financial ratios, we are dividing our data into industries.
 
-image
+![Capture](https://user-images.githubusercontent.com/43980002/64501934-e793d300-d306-11e9-9372-268e9de946ab.JPG)
 
 DBCAN can detect clusters of deferring size and shape by locating regions of high density that are separated from one another by regions of low density. The algorithm form clusters in the following way:
 
