@@ -45,7 +45,7 @@ DBCAN can detect clusters of deferring size and shape by locating regions of hig
 
 *“A point **a** is density connected to a point **b** with respect to ϵ and MinPts, if there is a point **c** such that, both **a** and **b** are density reachable from **c** w.r.t. to ϵ and MinPts.”*
 
-image
+[](https://user-images.githubusercontent.com/43980002/64501884-aa2f4580-d306-11e9-977e-ff2be704c564.png)
 
 
 ----------
