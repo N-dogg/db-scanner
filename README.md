@@ -2,7 +2,7 @@
 ===================
 
 
-####Coding and testing the commercial applications of academic papers and cutting edge analytical techniques.
+Coding and testing the commercial applications of academic papers and cutting edge analytical techniques.
 ------------------------------------------------------------------------
 
 **Paper 1:** *A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise*
