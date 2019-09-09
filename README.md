@@ -51,7 +51,7 @@ DBCAN can detect clusters of deferring size and shape by locating regions of hig
 ----------
 
 
-Example Results Screens
+Results
 --------------------
 
 ----------
