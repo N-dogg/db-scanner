@@ -1,0 +1,1122 @@
+Company Name,Sector,Net Profit Margin,ROA,Current Ratio,Financial Leverage,EBITDA Margin
+Company 1,Industrials,0.02,0.01,10.73,1.1881,0.33
+Company 2,Consumer Discretionary,0.17,0.22,2.11,1.7306,0.22
+Company 3,Health Care,-1.35,-0.94,1.03,1.8473,-1.06
+Company 4,Information Technology,-5.32,-0.78,3.41,1.3835,-5.32
+Company 5,Consumer Discretionary,0.15,0.14,0.88,2.8983,0.42
+Company 6,Communication Services,-0.11,-0.04,1.09,1.5925,0
+Company 7,Information Technology,-0.49,-0.16,3.06,1.2304,-0.16
+Company 8,Financials,-0.34,-0.21,3.66,1.3196,-0.35
+Company 9,Communication Services,-0.13,-0.41,2.02,1.7815,-0.08
+Company 10,Information Technology,-1.31,-3.17,0.38,-0.768,-1.18
+Company 11,Industrials,0.09,0.08,2.36,1.262,0.21
+Company 12,Consumer Staples,0.21,0.27,3.03,1.3003,0.31
+Company 13,Industrials,-16.76,-0.76,7.89,1.1229,-21.17
+Company 14,Consumer Staples,-0.28,-0.07,5.37,1.525,-0.37
+Company 15,Consumer Staples,-0.87,-0.05,0.51,2.4623,-0.24
+Company 16,Communication Services,-0.17,-0.19,0.7,-8.1631,-0.02
+Company 17,Communication Services,-0.47,-0.22,1.41,1.5621,-0.43
+Company 18,Materials,0.12,0.1,2.79,1.6684,0.22
+Company 19,Energy,-95.57,-0.13,0.06,-33.5311,-59.37
+Company 20,Real Estate,1.57,0.07,4.26,1.4586,1.74
+Company 21,Consumer Staples,-5.16,-0.33,10.24,1.0862,-4.18
+Company 22,Consumer Discretionary,-0.24,-0.26,1.37,2.4209,-0.17
+Company 23,Materials,-24.73,-0.12,2.15,1.1204,-24.85
+Company 24,Industrials,0.04,0.02,1.75,1.2879,0.09
+Company 25,Health Care,-2.91,-0.24,11.66,1.084,-3.65
+Company 26,Communication Services,-2.75,-1.31,4.73,1.266,-2.75
+Company 27,Information Technology,0.13,0.1,4.51,1.2143,0.02
+Company 28,Information Technology,0.16,0.23,2.5,1.607,0.21
+Company 29,Consumer Discretionary,0.1,0.16,1.59,1.6784,0.17
+Company 30,Information Technology,-1.66,-0.34,2.55,1.1694,-0.91
+Company 31,Health Care,-14.32,-0.67,9.31,1.117,-11.39
+Company 32,Health Care,-1.59,-0.61,5.79,1.196,-1.59
+Company 33,Health Care,-67.8,-0.73,0.72,2.3936,-53.14
+Company 34,Financials,0.19,0.22,2.77,1.5129,0.28
+Company 35,Industrials,-1.17,-1.12,1.57,35.2388,-1.38
+Company 36,Communication Services,0.04,0.04,3.05,1.4747,0.03
+Company 37,Financials,-0.39,0.03,0.63,4.4885,0.98
+Company 38,Health Care,-0.03,0.05,0.88,12.4917,0.08
+Company 39,Information Technology,-1,-0.81,3.94,1.2702,-0.97
+Company 40,Materials,-0.02,0,0.83,1.9543,0.06
+Company 41,Materials,0.05,0.05,1.55,2.4659,0.28
+Company 42,Consumer Discretionary,0.16,0.07,5.23,1.3367,0.32
+Company 43,Utilities,0.12,0.12,1.65,1.7448,0.24
+Company 44,Consumer Staples,-0.2,-0.18,0.45,1.4183,-0.13
+Company 45,Consumer Discretionary,0.01,0.04,1.09,3.3974,0.03
+Company 46,Consumer Discretionary,-0.55,-0.74,4.49,1.3217,-0.51
+Company 47,Health Care,0.05,0.05,1.32,1.7949,0.09
+Company 48,Consumer Staples,0.09,0.07,2.61,4.002,0.21
+Company 49,Health Care,-0.95,-0.71,2.39,1.4833,-0.81
+Company 50,Industrials,0.54,0.05,0.54,1.4426,1.03
+Company 51,Industrials,-0.15,-0.08,13.3,1.5615,-0.16
+Company 52,Materials,0,0.07,1.25,3.3546,0.17
+Company 53,Industrials,0.07,0.06,0.84,3.6057,0.2
+Company 54,Health Care,0.03,0.02,2.12,1.3704,0.02
+Company 55,Industrials,-0.05,0.04,1.4,1.9189,0.18
+Company 56,Materials,-16.55,-0.05,1.59,2.8802,-17.2
+Company 57,Financials,10.84,0.02,0.32,1.568,16.47
+Company 58,Energy,-0.78,-0.05,0.86,2.2638,-0.17
+Company 59,Materials,-0.37,-0.18,18.67,2.2161,-0.15
+Company 60,Consumer Discretionary,0.08,0.07,0.9,1.9671,0.13
+Company 61,Health Care,-0.7,-0.36,1.88,1.7492,-0.72
+Company 62,Consumer Discretionary,-0.06,-0.03,0.55,1.3986,0.06
+Company 63,Materials,0.19,0.11,3.4,1.2157,0.54
+Company 64,Consumer Discretionary,0.19,0.13,1.33,3.3748,0.43
+Company 65,Industrials,0.11,0.1,1.13,1.9749,0.22
+Company 66,Health Care,-45.54,-0.65,7.29,1.1598,-45.53
+Company 67,Information Technology,0.27,0.16,1.5,1.5331,0.33
+Company 68,Industrials,0.37,0.03,1.64,1.9878,1.68
+Company 69,Industrials,0.02,0.04,0.95,2.121,0.07
+Company 70,Industrials,-0.01,-0.02,1.9,2.153,0
+Company 71,Materials,0.08,0.1,0.7,8.2959,0.16
+Company 72,Materials,-1.36,-0.68,7.5,1.2403,-1.46
+Company 73,Materials,0.43,0.42,2.01,1.4562,0.49
+Company 74,Information Technology,0,0.01,1.49,2.568,0.02
+Company 75,Health Care,-0.14,-0.08,6.67,1.1461,-0.06
+Company 76,Industrials,0.01,0.03,1.23,2.1479,0.05
+Company 77,Health Care,0.1,0.07,3.85,1.6272,0.16
+Company 78,Materials,0.47,0.38,5.92,1.2368,0.28
+Company 79,Industrials,-13.51,-1.17,0.07,-0.1975,-6.45
+Company 80,Health Care,-551.88,-0.36,16.07,1.1426,-582.68
+Company 81,Materials,-48.89,-0.21,1.74,1.2718,-40.51
+Company 82,Information Technology,-69.83,-0.28,3.3,1.1447,-67.22
+Company 83,Real Estate,0.02,0,0.46,2.9222,0.13
+Company 84,Energy,-12.1,-0.66,2.31,1.1111,-11.92
+Company 85,Utilities,0.11,0.04,0.47,3.6898,0.64
+Company 86,Financials,0.7,0.09,2.71,1.2496,1.01
+Company 87,Consumer Discretionary,0.02,0.07,1.13,2.6927,0.04
+Company 88,Health Care,0.01,0.04,1.33,3.0347,0.03
+Company 89,Information Technology,-0.05,0,6.56,2.1368,0.16
+Company 90,Information Technology,0.12,0.2,2.83,1.7102,0.2
+Company 91,Real Estate,0.12,0.02,2.54,1.1132,0.22
+Company 92,Materials,0.08,0.01,1.81,1.4524,0.21
+Company 93,Consumer Discretionary,-0.13,-0.09,1.22,-1.2065,0.02
+Company 94,Industrials,0.07,0.08,2.26,1.7219,0.24
+Company 95,Consumer Discretionary,0.12,0.14,2.93,1.2032,0.21
+Company 96,Real Estate,0.78,0.06,1,1.3657,0.88
+Company 97,Information Technology,0.06,0.05,1.08,2.0451,0.18
+Company 98,Materials,54.62,0.18,2.58,1.194,56.85
+Company 99,Consumer Staples,-1.32,-0.15,6.24,1.1039,-1.15
+Company 100,Industrials,0.03,0.04,1.34,2.0927,0.07
+Company 101,Consumer Discretionary,0.02,0.03,0.93,2.1539,0.04
+Company 102,Industrials,0.01,0.11,2,1.8933,0.02
+Company 103,Materials,0.06,0.05,3.49,1.7654,0.19
+Company 104,Communication Services,0.04,0.03,0.45,2.1414,0.06
+Company 105,Utilities,0.14,0.04,0.55,3.8964,0.61
+Company 106,Financials,0.39,0.24,6.21,1.1576,0.56
+Company 107,Financials,0.57,0.04,1.14,3.2754,0.78
+Company 108,Consumer Discretionary,0.05,0.05,0.58,4.3458,0.19
+Company 109,Materials,0.01,0.02,1.54,1.6873,0.09
+Company 110,Consumer Discretionary,-0.12,-0.05,2.82,1.3268,-0.08
+Company 111,Materials,-0.87,-0.04,1.11,1.1698,-0.49
+Company 112,Energy,0,0,1.81,1.2207,0.05
+Company 113,Real Estate,-0.23,-0.38,0.47,19.9061,-0.19
+Company 114,Consumer Discretionary,-0.43,-0.44,4.72,1.1948,-0.42
+Company 115,Financials,0.18,0.06,1.24,2.1867,0.31
+Company 116,Financials,230,0.04,3.8,1.2984,253.98
+Company 117,Information Technology,-0.13,-0.09,2.58,1.2704,-0.14
+Company 118,Financials,-0.59,-0.6,0.4,3.5962,-0.6
+Company 119,Health Care,-2.99,-0.78,3.72,1.2313,-2.44
+Company 120,Consumer Staples,0.03,0.03,3.12,1.5049,0.09
+Company 121,Health Care,-9.98,-0.72,5.74,1.2114,-10.77
+Company 122,Real Estate,0.08,0.05,4.45,1.605,0.12
+Company 123,Materials,415.06,0.3,1.7,1.0512,419.25
+Company 124,Industrials,0.09,0.07,1.02,1.7179,-0.09
+Company 125,Materials,-4.06,-0.52,0.5,1.3871,-4.53
+Company 126,Consumer Staples,-7.91,-0.07,16.21,1.2608,-5.14
+Company 127,Consumer Discretionary,0.07,0.08,1.27,1.543,0.13
+Company 128,Materials,-598.24,-0.08,12.9,1.0275,-585.55
+Company 129,Financials,0.06,0.05,0.88,5.413,0.5
+Company 130,Financials,-3.87,-2.36,0.1,-0.2793,-3.24
+Company 131,Communication Services,0.04,0.09,0.54,4.976,0.08
+Company 132,Industrials,0.19,0.07,0.95,2.0662,0.5
+Company 133,Information Technology,-194.09,-3.66,2.49,1.3813,-189.38
+Company 134,Health Care,0.04,0.07,2.15,1.7547,0.05
+Company 135,Materials,-1.81,-0.66,0.72,3.1154,-1.67
+Company 136,Consumer Staples,0.13,0.15,3.14,1.3542,0.2
+Company 137,Consumer Discretionary,0.07,0.08,1.96,1.911,0.12
+Company 138,Energy,-0.11,-0.1,0.91,3.6586,0.03
+Company 139,Communication Services,0.06,0.04,1.35,1.4411,0.11
+Company 140,Consumer Discretionary,0.03,0.06,2.06,1.5355,0.06
+Company 141,Information Technology,-0.07,-0.06,1.25,1.6944,0.02
+Company 142,Materials,-0.51,-0.16,2.06,1.1703,-0.44
+Company 143,Energy,-1.03,-0.12,5.31,1.5581,-1.06
+Company 144,Information Technology,-4.44,-0.81,2.18,1.8611,-4.34
+Company 145,Consumer Discretionary,-4.23,-0.94,3.13,1.4626,-4.24
+Company 146,Consumer Staples,-1.65,-0.56,0.54,3.394,-1.58
+Company 147,Consumer Discretionary,-0.36,-0.29,2.25,1.2506,-0.29
+Company 148,Consumer Staples,-0.29,-0.09,1.79,1.3083,-0.35
+Company 149,Financials,0.12,0.04,1.1,3.7471,0.12
+Company 150,Consumer Staples,0.03,0.04,1.69,1.9238,0.07
+Company 151,Consumer Discretionary,0.1,0.17,1.82,1.3356,0.15
+Company 152,Materials,-672.93,-0.37,11.82,1.11,-693.85
+Company 153,Real Estate,0.15,0.08,0.98,2.1754,0.28
+Company 154,Materials,0.23,0.1,2.51,1.8459,0.53
+Company 155,Information Technology,-0.83,-0.44,5.97,1.1799,-0.68
+Company 156,Industrials,0.16,0.09,0.97,2.0615,0.31
+Company 157,Information Technology,-0.51,-0.2,1.96,1.3713,-0.33
+Company 158,Materials,0.04,0.07,1.59,2.2429,0.09
+Company 159,Consumer Staples,0.12,0.16,1.73,2.4044,0.18
+Company 160,Industrials,-0.2,-0.65,0.29,-0.5481,-0.19
+Company 161,Materials,0.25,0.07,2.07,1.3882,0.37
+Company 162,Financials,-1.87,-0.19,1.48,2.0201,-2.08
+Company 163,Materials,0.08,0.06,1.75,1.6595,0.17
+Company 164,Information Technology,-5.38,-0.14,18.4,1.0504,-5.33
+Company 165,Materials,-0.17,-0.09,0.74,1.8597,-0.11
+Company 166,Health Care,-30.79,-0.55,8.2,1.1384,-30.92
+Company 167,Consumer Discretionary,0.08,0.16,1.85,1.7373,0.14
+Company 168,Materials,-0.04,0.03,1.66,-2.0237,0.09
+Company 169,Industrials,-0.32,-0.36,2.79,1.4362,-0.26
+Company 170,Real Estate,-1.85,-5.03,0.45,-0.6578,-1.8
+Company 171,Energy,-29.08,-2.3,2.29,5.5791,-29.02
+Company 172,Health Care,-6.68,-0.36,2.7,3.8369,-6.15
+Company 173,Industrials,-0.01,0.01,1.45,1.4697,0.11
+Company 174,Consumer Discretionary,-2.42,-0.61,0.8,-0.9986,-4.59
+Company 175,Industrials,-0.57,-0.17,1.21,1.285,-0.44
+Company 176,Energy,0.2,0.07,1.5,2.2181,0.36
+Company 177,Consumer Discretionary,0.09,0.14,2.9,1.5724,0.15
+Company 178,Materials,0.03,0.06,1.73,1.8357,0.05
+Company 179,Materials,0.16,0.11,2.96,1.6963,0.37
+Company 180,Information Technology,-16.57,-1.55,8.57,1.1449,-15.47
+Company 181,Energy,1.5,0.28,8,1.1561,1.48
+Company 182,Industrials,0.01,0.05,1.13,3.5177,0.03
+Company 183,Materials,0.17,0.1,1.37,1.6072,0.55
+Company 184,Materials,0.07,0.09,1.72,1.5871,0.15
+Company 185,Materials,-118.36,-0.24,8.15,1.1125,-108.43
+Company 186,Financials,-29.7,-0.36,7.98,1.1152,-30.27
+Company 187,Information Technology,-0.52,-0.23,2.62,1.7486,-0.54
+Company 188,Information Technology,0.08,0.07,5.4,1.2218,0.1
+Company 189,Consumer Staples,-0.91,-0.17,4.36,1.2269,-0.97
+Company 190,Information Technology,-6.66,-0.53,13.5,1.074,-6.68
+Company 191,Consumer Staples,-0.21,-0.15,1.91,2.1131,-0.08
+Company 192,Energy,-1.32,-0.11,1.3,1.2036,-1.3
+Company 193,Information Technology,0.12,0.13,0.89,1.8595,0.18
+Company 194,Financials,0.28,0.11,2.51,1.3076,0.54
+Company 195,Real Estate,0.94,0.09,0.67,1.8015,1.64
+Company 196,Consumer Staples,0.16,0.08,2.18,1.3399,0.27
+Company 197,Industrials,0.12,0.1,0.93,2.479,0.28
+Company 198,Consumer Staples,-0.66,-0.26,6.5,1.1687,-0.68
+Company 199,Energy,0.11,0.05,0.95,1.4115,0.2
+Company 200,Communication Services,-0.01,-0.01,1.47,2.203,0.02
+Company 201,Materials,-0.08,-0.01,0.75,2.3138,0.14
+Company 202,Financials,0.56,0.09,1.15,2.4517,0.53
+Company 203,Materials,0.02,0.03,1.96,1.7318,0.03
+Company 204,Materials,-10.23,-0.13,0.03,3.5769,-3.65
+Company 205,Financials,0.03,0.02,1.15,1.9743,0.14
+Company 206,Information Technology,-0.88,-0.12,17.7,1.0709,-0.79
+Company 207,Health Care,0.07,0.1,0.73,1.2655,0.18
+Company 208,Health Care,-8.44,-0.05,89.32,1.0108,-6.91
+Company 209,Real Estate,-24.27,-0.04,11.75,1.0304,-15.87
+Company 210,Communication Services,0.29,0.15,0.42,2.7113,0.48
+Company 211,Information Technology,-0.23,-0.09,1.31,1.4514,-0.03
+Company 212,Information Technology,-9.3,-3.03,2.67,1.3013,-8.79
+Company 213,Utilities,-1.75,-0.19,1.53,1.2913,-1.47
+Company 214,Information Technology,-0.39,-0.12,1.05,1.2261,-0.36
+Company 215,Consumer Staples,0.1,0.09,1.71,3.2486,0.2
+Company 216,Financials,0.22,0.13,5.76,1.9781,0.36
+Company 217,Consumer Discretionary,0.25,0.06,1.86,1.5791,0.5
+Company 218,Consumer Discretionary,0.13,0.09,1.21,5.2857,0.14
+Company 219,Information Technology,0.18,0.17,1.6,1.3522,0.31
+Company 220,Industrials,0.02,0.03,1.83,1.5698,0.08
+Company 221,Materials,0.06,0.03,1.61,1.3022,0.11
+Company 222,Materials,-1.7,-0.42,0.26,2.0359,-1.31
+Company 223,Health Care,-0.74,-0.46,3.46,1.3955,-0.72
+Company 224,Health Care,-0.66,-0.5,1.12,3.6377,-0.55
+Company 225,Utilities,0.05,0.03,0.7,1.9476,0.21
+Company 226,Financials,1.15,0.05,0.29,1.7675,7.78
+Company 227,Industrials,-3.45,-0.26,0.95,1.7588,-2.44
+Company 228,Materials,-1.14,-0.66,3.7,2.3874,-1.07
+Company 229,Materials,-1.34,-0.34,2.45,1.2671,-1.18
+Company 230,Consumer Staples,0.01,0.02,1.51,2.0237,0.07
+Company 231,Financials,0.2,0.02,2.06,7.2582,-0.08
+Company 232,Information Technology,0.21,0.15,1.67,1.6654,0.36
+Company 233,Information Technology,0.03,0.07,1.02,2.6412,0.05
+Company 234,Financials,0.07,0.04,1.33,6.4869,0.33
+Company 235,Health Care,-0.02,-0.03,1.86,1.6082,0.03
+Company 236,Real Estate,1.22,0.12,1.65,1.0836,1.38
+Company 237,Industrials,-0.01,-0.01,1.4,1.5787,0.04
+Company 238,Industrials,0.25,0.27,9.44,1.1162,0.38
+Company 239,Materials,0.11,0.07,6.64,1.241,0.18
+Company 240,Industrials,0.05,0.09,0.91,3.9157,0.12
+Company 241,Information Technology,-3.01,-1.43,0.37,5.5249,-2.99
+Company 242,Financials,1.95,0.05,3.88,1.1716,3.46
+Company 243,Materials,-11.96,-0.28,0.01,3.9715,-10.94
+Company 244,Consumer Discretionary,0.05,0.07,0.9,2.1459,0.13
+Company 245,Information Technology,0.26,0.26,5.17,1.2315,0.47
+Company 246,Consumer Discretionary,-2.48,-0.86,1.61,1.3015,-2.75
+Company 247,Financials,0.21,0.08,2.93,1.7958,0.39
+Company 248,Industrials,-2.17,-0.7,0.75,1.537,-1.75
+Company 249,Industrials,-4.4,-0.06,17.5,1.0379,-4.63
+Company 250,Information Technology,0.07,0.22,3,1.3862,0.05
+Company 251,Materials,0.12,0.15,4.29,1.3645,0.18
+Company 252,Industrials,0.02,0.03,1.1,1.793,0.09
+Company 253,Communication Services,-0.02,0.03,1.36,2.7733,0.06
+Company 254,Health Care,0.08,0.08,2.64,1.4962,0.11
+Company 255,Financials,0.82,0.06,11.08,2.5798,1.13
+Company 256,Materials,-76.51,-0.05,2.12,1.024,-80.48
+Company 257,Communication Services,0.09,0.04,0.54,4.82,0.66
+Company 258,Information Technology,0.04,0.09,0.94,3.2613,0
+Company 259,Energy,0.07,0.01,2.15,1.84,0.16
+Company 260,Financials,0.04,0.03,1.67,1.4745,0.05
+Company 261,Health Care,0.18,0.21,2.03,1.8941,0.28
+Company 262,Information Technology,0.02,0.01,2.13,1.3865,0.07
+Company 263,Health Care,-26.65,-0.65,1.43,1.3501,-26.22
+Company 264,Information Technology,0.13,0.09,1.14,2.916,0.28
+Company 265,Real Estate,4.74,0.05,0.52,1.4484,5.75
+Company 266,Financials,-0.49,-0.31,8.19,1.1159,-0.47
+Company 267,Materials,0.09,0.19,1.36,1.7623,0.24
+Company 268,Information Technology,-20.33,-1.17,1.45,1.1579,-18.38
+Company 269,Materials,-3.93,-0.39,0.31,2.514,-3.17
+Company 270,Communication Services,-2.61,-1.06,2.75,1.6427,-1.84
+Company 271,Health Care,0.23,0.17,2.61,2.6409,0.36
+Company 272,Materials,0.08,0.1,2.11,1.6173,0.15
+Company 273,Consumer Staples,0.08,0.04,7.76,1.1378,0.14
+Company 274,Information Technology,-0.06,-0.03,2.6,5.0308,-0.06
+Company 275,Information Technology,-9.48,-4.48,2.21,1.726,-9.45
+Company 276,Consumer Discretionary,0.21,0.1,1.17,1.707,0.34
+Company 277,Health Care,-0.01,-0.01,5.59,3.9846,0.12
+Company 278,Energy,-0.4,-0.05,1.76,22.5268,0.04
+Company 279,Energy,0.03,0.09,1.31,1.9851,0.05
+Company 280,Energy,0.32,0.14,2.96,1.6431,0.2
+Company 281,Industrials,0.03,0.06,2.42,1.2384,0.08
+Company 282,Health Care,0.52,0.31,12.18,1.0885,0.5
+Company 283,Information Technology,-0.2,-0.35,1.27,1.7341,-0.15
+Company 284,Financials,0.44,0.07,11.93,1.4736,0.69
+Company 285,Industrials,0.03,0.09,1.53,2.465,0.06
+Company 286,Information Technology,-5.06,-0.77,1.83,1.7604,-4.8
+Company 287,Information Technology,-0.04,-0.03,1,1.4177,0.15
+Company 288,Consumer Discretionary,0.09,0.04,2.46,1.5843,0.23
+Company 289,Real Estate,0.18,0.08,2.03,1.7031,0.29
+Company 290,Industrials,0.07,0.04,1.12,1.6192,0.2
+Company 291,Financials,-6.19,-0.44,0.22,1.7063,-4.51
+Company 292,Materials,-0.1,-0.01,1.7,1.5624,0.42
+Company 293,Information Technology,0.3,0.89,0.67,2.5735,1.19
+Company 294,Health Care,-0.03,-0.01,2.96,1.3832,0.02
+Company 295,Industrials,-0.05,-0.08,2.36,1.6281,-0.03
+Company 296,Consumer Discretionary,-0.78,-1.26,1.62,1.8377,-0.65
+Company 297,Materials,0.3,0.22,0.47,-5.0525,-1.11
+Company 298,Industrials,-2.55,-0.69,1.32,4.2175,-2
+Company 299,Utilities,0.28,0.05,5.68,1.351,0.42
+Company 300,Consumer Staples,-0.07,-0.01,3.82,1.2465,0.03
+Company 301,Information Technology,0.37,0.32,13.51,1.0791,0.45
+Company 302,Industrials,0,0.01,1.02,1.4718,0.02
+Company 303,Financials,0.57,0.06,0.14,1.4294,0.67
+Company 304,Information Technology,0.02,0.09,1.16,5.365,0.04
+Company 305,Consumer Discretionary,-0.16,-0.2,2.51,1.5273,-0.05
+Company 306,Utilities,-0.18,-0.37,1.33,2.8142,-0.16
+Company 307,Consumer Staples,0.35,0.13,5.09,1.171,0.44
+Company 308,Real Estate,-14.21,-0.05,2.85,1.5812,-12.4
+Company 309,Communication Services,0.09,0.02,1.85,1.2637,0.24
+Company 310,Financials,0.62,0.07,0.94,1.6834,0.81
+Company 311,Consumer Discretionary,-0.01,-0.01,6.15,1.153,0
+Company 312,Consumer Discretionary,0.14,0.13,1.14,4.2332,0.25
+Company 313,Information Technology,0.07,0.07,0.41,5.2498,0.12
+Company 314,Consumer Discretionary,0.21,0.06,0.98,1.2931,0.47
+Company 315,Energy,-40.58,-0.43,2.6,1.1717,-42.72
+Company 316,Financials,0.49,0.05,0.23,1.6869,0.69
+Company 317,Industrials,0.02,0.04,1.09,2.4299,0.07
+Company 318,Industrials,-6.64,-1.6,1.66,1.924,-6.63
+Company 319,Information Technology,-0.28,-0.25,6.17,1.1538,-0.17
+Company 320,Information Technology,-0.31,-0.27,3.02,1.458,-0.25
+Company 321,Information Technology,0.01,0.04,1.07,8.2985,0.02
+Company 322,Materials,-90.78,-0.16,0.07,2.0887,-71.4
+Company 323,Information Technology,-6.55,-1.44,6.06,1.1922,-6.33
+Company 324,Information Technology,-372.63,-4.08,2.02,1.9127,-365.41
+Company 325,Information Technology,-7.53,-0.86,3.35,1.1939,-6.43
+Company 326,Health Care,-1.05,-0.33,4.58,1.1602,-1.14
+Company 327,Real Estate,-0.92,-0.25,3.05,1.5825,-0.89
+Company 328,Consumer Discretionary,-7.97,-1.37,4.34,1.2934,-7.47
+Company 329,Information Technology,0.13,0.16,1.49,1.4177,0.18
+Company 330,Real Estate,2.61,0.07,0.29,1.3951,3.13
+Company 331,Energy,-0.29,-0.07,0.15,4.0249,-0.14
+Company 332,Materials,-2740.12,-1.04,2.95,1.2849,-2662.36
+Company 333,Industrials,0.08,0.13,2.54,1.5791,0.18
+Company 334,Consumer Discretionary,0.16,0.07,0.95,1.738,0.31
+Company 335,Health Care,0.02,0.05,1.18,2.6832,0.04
+Company 336,Industrials,-0.71,-0.55,1,3.6545,-0.52
+Company 337,Industrials,0.09,0.08,7.33,1.1147,0.12
+Company 338,Industrials,-60.33,-0.61,1.06,1.85,-47.45
+Company 339,Financials,0.12,0.03,5.41,3.2217,0.37
+Company 340,Financials,0.07,0.16,2.09,1.3476,0.13
+Company 341,Energy,-8.2,-0.54,3.31,1.1335,-7.54
+Company 342,Energy,-0.06,0.03,0.36,2.9982,0.38
+Company 343,Communication Services,0.04,0.05,1.72,1.599,0.07
+Company 344,Real Estate,0.21,0.03,6.21,1.7845,0.63
+Company 345,Industrials,0.05,0.08,1.64,1.3767,0.07
+Company 346,Industrials,0.11,0.18,3.3,1.3228,0.11
+Company 347,Energy,-0.16,-0.04,0.36,1.3425,-0.07
+Company 348,Industrials,-0.2,-0.14,0.49,-2.0591,-0.08
+Company 349,Health Care,0.08,0.03,0.03,2.3949,0.17
+Company 350,Consumer Staples,0.17,0.2,3.73,1.2738,0.24
+Company 351,Industrials,0.06,0.08,2.84,4.6654,0.33
+Company 352,Consumer Staples,0.04,0.08,1.06,3.0148,0.05
+Company 353,Energy,-1,-0.25,0.53,-5.5605,-0.66
+Company 354,Information Technology,-0.11,-0.03,2.21,1.4562,0.05
+Company 355,Information Technology,-2.49,-0.76,5.74,1.2365,-2.44
+Company 356,Health Care,-0.06,-0.05,3.09,1.3647,-0.04
+Company 357,Industrials,0.05,0.09,2.29,2.0343,0.08
+Company 358,Information Technology,0.04,0.01,1.45,1.8458,0.18
+Company 359,Communication Services,-0.89,-1.07,0.31,-1.4067,-0.63
+Company 360,Financials,-5.58,-0.67,1.22,-11711.8008,0
+Company 361,Industrials,-0.05,-0.09,0.67,-3.033,-0.02
+Company 362,Consumer Discretionary,0.22,0.08,1.22,1.9573,0.35
+Company 363,Information Technology,0.11,0.08,0.63,1.8134,0.27
+Company 364,Industrials,0.18,0.12,3.71,1.3385,0.17
+Company 365,Information Technology,0.03,0.04,1.54,1.7462,0.09
+Company 366,Utilities,-0.01,-0.02,1.15,5.4514,0
+Company 367,Financials,0.23,0.06,6.21,1.229,0.37
+Company 368,Energy,-2.16,-0.66,2.53,-2.2642,-2.18
+Company 369,Consumer Staples,-0.07,-0.09,1.91,1.4949,-0.03
+Company 370,Materials,-0.02,0.47,1.88,2.4138,0.09
+Company 371,Health Care,-81.52,-1,3.88,1.3213,-78.19
+Company 372,Communication Services,-858.06,-0.9,31.09,1.0248,-705.42
+Company 373,Information Technology,0.01,0.03,0.45,-204.0606,0.31
+Company 374,Financials,-99.45,-0.25,55.7,1.0104,-99.45
+Company 375,Materials,0.17,0.09,2.02,1.3356,0.5
+Company 376,Consumer Discretionary,0.1,0.05,0.5,2.6345,0.27
+Company 377,Information Technology,-1.77,-0.5,2.27,1.2951,-1.7
+Company 378,Communication Services,0.11,0.08,0.84,1.5897,0.24
+Company 379,Industrials,0.04,0.07,1.36,2.1612,0.06
+Company 380,Utilities,0.15,0.01,0.28,2.2518,0.52
+Company 381,Consumer Staples,-0.03,-0.01,7.91,1.0693,-0.01
+Company 382,Consumer Discretionary,0.06,0.04,1.33,1.2885,0.2
+Company 383,Financials,0.87,0.19,2.1,1.2338,1.19
+Company 384,Information Technology,-245.73,-5.97,0.52,-1.4206,-239.03
+Company 385,Materials,-0.01,0.01,1.66,2.0599,0.03
+Company 386,Consumer Discretionary,-0.08,0.02,0.41,4.3042,0.28
+Company 387,Information Technology,-1.12,-0.64,1.63,2.3838,-0.82
+Company 388,Energy,-0.04,0.02,0.89,1.628,0.36
+Company 389,Communication Services,-0.35,-0.09,8.66,1.0547,-0.44
+Company 390,Materials,-3.48,-0.59,0.3,17.3002,-2.47
+Company 391,Financials,0.06,0.04,1.94,5.6123,0.23
+Company 392,Health Care,-0.05,-0.16,0.6,-2.4822,-0.04
+Company 393,Financials,-3.96,-0.44,0.59,1.2208,-4.9
+Company 394,Consumer Staples,0.07,0.05,1.46,1.4115,0.12
+Company 395,Materials,-864.09,-0.67,2.7,1.3087,-934.75
+Company 396,Financials,0.23,0.23,2.5,1.3029,0.35
+Company 397,Financials,0.19,0.11,1.55,1.5195,0.28
+Company 398,Industrials,-0.08,-0.04,1.22,2.7766,-0.04
+Company 399,Industrials,-0.03,-0.02,0.97,2.2885,-0.02
+Company 400,Consumer Discretionary,0.09,0.08,1.45,2.1906,0.15
+Company 401,Materials,0.13,0.07,1.33,1.8341,0.46
+Company 402,Consumer Staples,0.06,0.03,2.21,1.4453,0.11
+Company 403,Consumer Staples,0.11,0.1,0.61,2.0034,0.14
+Company 404,Health Care,0.22,0.2,2.47,1.3214,0.33
+Company 405,Energy,-8.48,-0.87,1.04,1.2407,-8.06
+Company 406,Real Estate,0.81,0.07,1.2,1.0257,0.81
+Company 407,Real Estate,0.11,0.05,3.47,1.4392,0.14
+Company 408,Consumer Staples,0.01,0.02,1.57,1.5688,0.06
+Company 409,Communication Services,-0.54,-2.4,0.25,-0.373,-0.47
+Company 410,Financials,0.27,0.05,6.49,5.6043,0.2
+Company 411,Communication Services,-0.06,-0.06,1.66,1.2363,0.01
+Company 412,Information Technology,0.09,0.28,0.82,-1.1006,0.15
+Company 413,Materials,-0.85,-0.26,4.33,1.115,-0.85
+Company 414,Consumer Discretionary,-0.12,-0.31,0.4,-0.8341,-0.04
+Company 415,Consumer Discretionary,0.05,0.05,2.08,1.3336,0.09
+Company 416,Financials,0.18,0.05,1.78,4.5478,0.46
+Company 417,Information Technology,-7.85,-1.36,0.98,1.9044,-6.44
+Company 418,Energy,4.67,0.06,86.61,1.016,-2.65
+Company 419,Consumer Discretionary,0.06,0.07,2.48,1.6586,0.12
+Company 420,Financials,-2.23,-0.43,0.79,5.0679,-2.22
+Company 421,Information Technology,0.08,0.07,1.34,1.4772,0.14
+Company 422,Financials,1,0.09,7.59,1.6729,1.28
+Company 423,Communication Services,0.81,5202.12,0,-0.0001,0.81
+Company 424,Financials,0.01,0,6.5,54.4295,0.7
+Company 425,Real Estate,10.43,0.07,1.14,1.175,11.65
+Company 426,Consumer Discretionary,0.09,0.07,0.3,1.5518,0.18
+Company 427,Energy,-171.25,-0.42,7.22,1.0553,-171.69
+Company 428,Materials,-0.06,-0.3,1.39,2.2852,-0.04
+Company 429,Energy,-0.16,-0.12,17.83,1.1082,-0.16
+Company 430,Consumer Discretionary,0.06,0.12,2.11,1.7761,0.07
+Company 431,Consumer Discretionary,0.01,0.02,1.08,3.3797,0.05
+Company 432,Health Care,-0.08,-0.03,1.15,2.5388,-0.03
+Company 433,Real Estate,0.74,0.09,3.45,1.4672,1
+Company 434,Health Care,-5.54,-1.6,0.62,-5.4734,-4.76
+Company 435,Consumer Staples,0.02,0.03,1.66,2.0465,0.06
+Company 436,Utilities,0.01,0.02,0.85,2.1591,0.14
+Company 437,Materials,0.04,0.15,2.54,1.6124,0.06
+Company 438,Utilities,-0.9,-0.04,2.77,8.8773,-0.21
+Company 439,Industrials,-0.03,-0.04,1.3,3.55,-0.02
+Company 440,Financials,-0.3,-0.22,1.43,3.3195,0
+Company 441,Information Technology,-8.64,-1.09,5.38,1.1348,-8.77
+Company 442,Financials,0.19,0.03,2.76,1.638,0.38
+Company 443,Real Estate,-11.32,-1.29,0.78,1.4739,-6.83
+Company 444,Real Estate,6.84,0.06,0.24,1.4631,8.03
+Company 445,Consumer Staples,0.06,0.04,2.61,1.2418,0.13
+Company 446,Materials,0.31,0.19,4.37,1.2737,0.37
+Company 447,Health Care,-1.1,-0.21,11.23,1.0903,-0.96
+Company 448,Information Technology,-15.83,-0.12,19.68,1.0536,-16.6
+Company 449,Health Care,-26.09,-0.8,4.13,1.3086,-24.41
+Company 450,Information Technology,0.15,0.06,1.5,1.1906,0.3
+Company 451,Communication Services,0.13,0.08,3.07,1.4289,0.21
+Company 452,Consumer Discretionary,0.14,0.12,2.82,1.8859,0.21
+Company 453,Industrials,0.14,0.1,3.16,1.6077,0.23
+Company 454,Materials,0.98,0.23,2.96,1.205,1.83
+Company 455,Materials,-64.1,-0.07,1.62,1.0955,-41.65
+Company 456,Materials,-0.28,-0.26,1.24,1.4879,-0.28
+Company 457,Consumer Staples,-0.2,-0.19,2.06,1.6275,-0.22
+Company 458,Materials,0.16,0.33,0.94,2.0978,0.25
+Company 459,Information Technology,0,0.02,1.98,2.4773,0.04
+Company 460,Industrials,0.1,0.27,4.28,1.2849,0.14
+Company 461,Consumer Discretionary,0.1,0.05,1.11,2.3105,0.19
+Company 462,Health Care,0.03,0.03,0.67,1.7188,0.13
+Company 463,Health Care,-48.81,-1.14,8.63,1.273,-34.56
+Company 464,Industrials,0.07,0.08,1.4,1.6887,0.1
+Company 465,Communication Services,0.25,0.22,2.5,1.4455,0.36
+Company 466,Industrials,0.05,0.03,1.45,1.2516,0.21
+Company 467,Information Technology,-113.48,-0.93,6.25,1.1505,-106.9
+Company 468,Information Technology,0.13,0.09,1.28,1.4343,0.26
+Company 469,Communication Services,0.13,0.06,3.47,1.3076,0.26
+Company 470,Consumer Discretionary,-0.05,-0.14,1.04,-4.702,-0.04
+Company 471,Financials,0.09,0.11,2.35,1.2516,0.14
+Company 472,Consumer Staples,0.08,0.06,2.13,1.6778,0.18
+Company 473,Consumer Discretionary,0.14,0.09,1.59,1.5581,0.23
+Company 474,Information Technology,-0.95,-0.6,0.41,8.7011,-0.93
+Company 475,Energy,-0.02,0.07,0.44,3.2487,0.32
+Company 476,Communication Services,0,0.01,0.53,16.1758,0.05
+Company 477,Information Technology,-5.91,-1.14,1.87,1.2609,-5.91
+Company 478,Consumer Discretionary,0.81,0.4,9.12,1.0849,0.87
+Company 479,Real Estate,-0.24,-0.25,1.13,3.2653,-0.19
+Company 480,Real Estate,-0.21,-0.22,1.13,3.2653,-0.16
+Company 481,Health Care,-43.56,-1.61,3.78,1.3407,-42.59
+Company 482,Communication Services,-0.82,-0.49,1.13,1.5834,-0.46
+Company 483,Consumer Discretionary,-1.18,-0.31,2.3,1.1702,-0.98
+Company 484,Health Care,0.16,0.11,2.45,1.2447,0.2
+Company 485,Consumer Discretionary,-1.49,-0.18,0.16,2.0389,-1.15
+Company 486,Communication Services,-0.02,-0.02,1.6,1.3116,0.13
+Company 487,Health Care,-0.22,-0.07,3.93,1.1989,-0.15
+Company 488,Health Care,0.09,0.1,0.84,2.0423,0.19
+Company 489,Consumer Discretionary,-0.1,-0.02,0.17,2.0259,0.14
+Company 490,Energy,-0.04,-0.04,0.27,-4.5935,-0.02
+Company 491,Consumer Discretionary,0.11,0.18,1.02,2.8518,0.18
+Company 492,Real Estate,0.04,0.05,0.2,3.1545,0.12
+Company 493,Financials,0.2,0.06,7.71,1.7272,0.32
+Company 494,Information Technology,0.17,0.16,1.9,1.4681,0.54
+Company 495,Utilities,0.2,0.08,3.1,2.2019,0.67
+Company 496,Utilities,-0.01,0.02,1.15,2.4523,0.33
+Company 497,Communication Services,0.05,0.08,1.31,2.5357,0.11
+Company 498,Industrials,-0.02,-0.08,1.99,1.9869,-0.01
+Company 499,Materials,0.07,0.03,2.9,1.2227,0.44
+Company 500,Health Care,-2.91,-4.15,0.49,-1.8467,-3.11
+Company 501,Information Technology,-0.64,-0.45,3.45,1.217,-0.5
+Company 502,Materials,0.25,0.15,1.5,1.9927,0.45
+Company 503,Health Care,-1.63,-0.32,8.78,1.0952,-1.62
+Company 504,Materials,0.1,0.1,3.03,1.215,0.19
+Company 505,Health Care,-0.26,-0.12,2.15,1.582,-0.15
+Company 506,Financials,-0.49,-0.03,2.33,1.466,-0.45
+Company 507,Health Care,-3.5,-0.27,7.43,1.402,-3.05
+Company 508,Communication Services,0,0.01,1.82,1.663,0.15
+Company 509,Real Estate,0.37,0.05,1.55,1.5469,0.5
+Company 510,Consumer Staples,0.06,0.13,1.78,4.3705,0.1
+Company 511,Consumer Discretionary,-0.09,-0.09,0.85,1.8992,-0.04
+Company 512,Information Technology,-4.48,-3.64,0.72,-2.6838,-4.15
+Company 513,Consumer Discretionary,-6.92,-3.05,0.3,-0.7418,-6.98
+Company 514,Information Technology,-1.51,-0.15,4.18,1.0899,-0.71
+Company 515,Health Care,-5.66,-0.65,6.67,1.1601,-5.65
+Company 516,Industrials,0.21,0.13,2.72,1.3748,0.33
+Company 517,Materials,0.09,0.05,1.05,1.8874,0.22
+Company 518,Information Technology,0.14,0.1,1.58,1.6605,0.26
+Company 519,Information Technology,0.19,0.16,1.53,1.9118,0.38
+Company 520,Information Technology,-0.08,-0.07,3.68,3.6321,-0.02
+Company 521,Information Technology,0.01,0.02,1.4,2.0879,0.2
+Company 522,Consumer Discretionary,0.03,0.02,2.27,1.4101,0.07
+Company 523,Information Technology,-1.32,-0.73,1.96,1.9109,-1.3
+Company 524,Consumer Discretionary,0.09,0.04,1.02,7.6824,0.22
+Company 525,Communication Services,-3.73,-1.1,0.11,-2.7735,-1.73
+Company 526,Health Care,-7.06,-1.26,3.02,1.5775,-6.82
+Company 527,Industrials,-0.37,-0.29,0.49,-5.991,-0.24
+Company 528,Health Care,-3.89,-0.27,1.72,1.309,-1.05
+Company 529,Information Technology,-72.33,-1.02,9.68,1.1064,-71.97
+Company 530,Information Technology,-1.19,-1.17,1.98,1.375,-1.12
+Company 531,Consumer Discretionary,-0.51,-0.06,32.73,1.165,-0.53
+Company 532,Consumer Discretionary,-3.01,-0.73,2.97,1.2906,-2.76
+Company 533,Consumer Discretionary,0.03,0.1,1.32,2.6295,0.06
+Company 534,Industrials,0.07,0.08,1.91,1.6188,0.12
+Company 535,Information Technology,0.07,0.08,1.44,2.2978,0.08
+Company 536,Health Care,0.05,0.02,0.08,2.3767,0.13
+Company 537,Financials,0.23,0.08,2.77,1.422,0.32
+Company 538,Health Care,-0.17,-0.08,0.74,2.4862,-0.05
+Company 539,Materials,0.1,0.07,1.56,4.1385,0.19
+Company 540,Consumer Discretionary,0.3,0.19,3.18,1.3328,0.49
+Company 541,Industrials,-0.01,0.01,1.23,3.7564,0.06
+Company 542,Consumer Staples,0.12,0.13,4.09,1.1276,0.19
+Company 543,Industrials,0.04,0.12,1.36,2.8026,0.07
+Company 544,Energy,-3.43,-0.11,0.43,-3.4975,-1.11
+Company 545,Consumer Discretionary,0.04,0.07,0.9,1.9246,0.12
+Company 546,Information Technology,-1.2,-1.34,1.49,1.7981,-0.92
+Company 547,Financials,0.39,0.3,5.88,1.198,0.52
+Company 548,Consumer Discretionary,0.03,0.14,1.73,2.2135,0.06
+Company 549,Information Technology,-36.85,-0.38,0.11,1.5064,-35.24
+Company 550,Health Care,0.03,0.05,0.52,2.4826,0.11
+Company 551,Materials,0.3,0.16,2.07,1.3539,0.57
+Company 552,Materials,-2.78,-0.78,2.91,1.4225,-2.77
+Company 553,Real Estate,0.16,0.09,2.52,2.261,0.23
+Company 554,Consumer Discretionary,0.1,0.08,1.53,1.462,0.18
+Company 555,Consumer Discretionary,0.15,0.11,1,1.7236,0.28
+Company 556,Industrials,0,0.01,0.93,3.7076,0.18
+Company 557,Communication Services,-4.18,-0.4,9.35,1.1059,-3.92
+Company 558,Information Technology,-0.31,-0.26,3.6,1.3713,-0.17
+Company 559,Industrials,0.02,0.04,3.55,1.2744,0.06
+Company 560,Industrials,0.1,0.12,1.61,1.8445,0.33
+Company 561,Utilities,-53.99,-0.4,3.32,4.5887,-58.51
+Company 562,Materials,0.14,0.1,3.51,1.1472,0.22
+Company 563,Consumer Discretionary,-0.35,-1.16,0.49,-1.2635,-0.31
+Company 564,Industrials,0.04,0.06,0.95,2.5054,0.1
+Company 565,Consumer Staples,-1.31,-0.15,18.23,1.0433,-1.35
+Company 566,Information Technology,-2.06,-0.2,1.69,1.2039,-2.03
+Company 567,Communication Services,-1.76,-0.35,1.6,1.6617,-1.29
+Company 568,Industrials,0.02,0.05,1,2.8786,0.1
+Company 569,Financials,-0.5,0.02,1.07,8.9329,0.24
+Company 570,Industrials,0.06,0.08,2.77,1.6241,0.14
+Company 571,Industrials,-0.01,-0.01,0.98,2.1571,0.02
+Company 572,Health Care,-27.8,-0.44,15.14,1.0664,-30.18
+Company 573,Real Estate,-0.05,-0.01,0.7,1.7512,0.19
+Company 574,Energy,-1.31,-0.24,3.56,1.1669,-0.4
+Company 575,Real Estate,0.03,0.03,0.96,2.6447,0.05
+Company 576,Real Estate,0.1,0.1,1.89,1.1442,0.16
+Company 577,Information Technology,0.16,0.05,1.22,2.0698,0.29
+Company 578,Materials,-3364.77,-0.06,0.09,1.3269,-2959.23
+Company 579,Consumer Staples,-0.62,-0.08,4.79,1.0684,-0.68
+Company 580,Consumer Discretionary,0.17,0.49,1.94,1.6096,0.27
+Company 581,Utilities,-0.07,-0.13,1.04,1.6432,-0.02
+Company 582,Health Care,-5.34,-0.6,6.27,1.1522,-5.47
+Company 583,Information Technology,-0.27,-0.56,0.7,-3.8657,-0.25
+Company 584,Information Technology,-6.24,-0.3,16.75,1.0596,-6.21
+Company 585,Information Technology,-3.88,-0.8,2.38,1.6158,-3.59
+Company 586,Materials,0.14,0.12,2.86,1.7599,0.35
+Company 587,Industrials,0.1,0.14,1.98,1.7484,0.13
+Company 588,Health Care,-0.57,-0.23,1.63,1.4885,-0.42
+Company 589,Materials,0.04,0.05,1.37,1.765,0.17
+Company 590,Financials,0.5,1,4.59,1.1843,0.68
+Company 591,Communication Services,0.07,0.12,1.19,1.5391,0.21
+Company 592,Materials,-0.51,-0.2,2.45,1.4343,-0.14
+Company 593,Materials,-286.82,-1.97,3.79,1.2106,-287.6
+Company 594,Information Technology,-3.75,-1.78,0.94,-1.3741,-3.23
+Company 595,Consumer Staples,-0.12,-0.02,5.02,1.1591,-0.05
+Company 596,Energy,-0.79,-0.14,2.61,1.099,-0.36
+Company 597,Financials,-0.24,-0.02,0.91,2.056,-0.23
+Company 598,Energy,-0.48,-0.07,1.88,1.1916,-0.17
+Company 599,Consumer Discretionary,0.06,0.1,1.39,1.7319,0.12
+Company 600,Utilities,0.13,0.05,0.51,1.8536,0.35
+Company 601,Health Care,-1.1,-0.18,10.13,1.1129,-1.15
+Company 602,Materials,-7.14,-0.26,6.61,1.3629,-7.16
+Company 603,Health Care,-0.67,-0.26,5.62,1.1458,-0.67
+Company 604,Real Estate,-0.01,-0.02,3.09,1.4537,0.04
+Company 605,Health Care,-79.56,-0.85,1.55,1.363,-73.71
+Company 606,Health Care,1.12,0.04,0.51,2.2292,1.31
+Company 607,Utilities,0.07,0.03,0.53,1.7898,0.24
+Company 608,Consumer Discretionary,0.11,0.09,1.01,1.6062,0.17
+Company 609,Materials,0.01,0.01,1.9,2.5886,0.04
+Company 610,Real Estate,1.09,0.13,1.07,1.5419,1.27
+Company 611,Materials,0.4,0.17,9.41,1.1875,0.36
+Company 612,Consumer Discretionary,-0.71,0,0.04,10.3259,0.21
+Company 613,Consumer Discretionary,-0.04,-0.04,1.44,1.4078,-0.01
+Company 614,Consumer Discretionary,0.06,0.1,2.59,1.9836,0.12
+Company 615,Communication Services,-1.89,-5.03,0.67,-17.6533,-1.78
+Company 616,Communication Services,-0.15,-0.08,3.39,1.1765,-0.15
+Company 617,Industrials,0,0.01,0.41,10.0092,0.03
+Company 618,Materials,0.18,0.14,1.39,1.5985,0.31
+Company 619,Financials,-0.25,-0.1,30.63,1.0336,-0.24
+Company 620,Materials,0.04,0.06,2.76,1.3913,0.13
+Company 621,Materials,-0.12,-0.09,2.52,1.5329,-0.07
+Company 622,Materials,0.02,0.04,0.89,4.5767,0.49
+Company 623,Materials,0.1,0.12,1.66,1.5511,0.1
+Company 624,Health Care,-102.45,-0.32,165.51,1.0202,-109.61
+Company 625,Materials,0.21,0.21,1.39,1.4355,0.43
+Company 626,Consumer Discretionary,-0.45,-1.55,0.57,-4.4813,-0.37
+Company 627,Industrials,0.2,0.12,2.08,2.3208,0.48
+Company 628,Industrials,0.04,0.1,1.98,1.7393,0.07
+Company 629,Communication Services,0.05,0.1,1.39,1.6516,0.11
+Company 630,Information Technology,-2.53,-0.73,3.59,-4.1867,-2.13
+Company 631,Financials,0.26,0.12,19.42,1.4906,0.46
+Company 632,Information Technology,-1.2,-0.54,5.97,1.3797,-1.22
+Company 633,Financials,0.02,0.03,1.37,4.5817,0.08
+Company 634,Information Technology,0.02,0.04,1.19,1.7069,0.04
+Company 635,Financials,-49.31,-7,0.05,-0.1867,-44.92
+Company 636,Materials,-0.07,-0.07,0.72,1.9062,-0.04
+Company 637,Information Technology,-1.24,-0.26,5.24,1.149,-1.05
+Company 638,Financials,0.76,0.13,2.02,1.938,0
+Company 639,Industrials,0.05,0.06,2.12,1.8397,0.15
+Company 640,Financials,-0.07,-0.13,1.3,3.5833,-0.06
+Company 641,Information Technology,0,0,0.96,1.4399,0.12
+Company 642,Real Estate,0.07,0.03,0.28,2.2465,0.16
+Company 643,Financials,0.47,0.03,0.9,11.0641,0.59
+Company 644,Materials,0.16,0.11,1.43,1.9232,0.25
+Company 645,Consumer Staples,-0.53,-0.33,0.58,5.1209,-0.42
+Company 646,Energy,-0.18,-0.03,3.1,1.9488,0.1
+Company 647,Communication Services,0.16,0.08,2.06,1.4962,0.24
+Company 648,Health Care,-0.27,0,4.21,1.2682,-3.64
+Company 649,Industrials,-0.03,-0.15,1.3,4.1851,-0.01
+Company 650,Industrials,-1,-0.27,3.09,1.4788,-1.39
+Company 651,Communication Services,-1405.47,-13.73,0.19,-0.6771,-1402.45
+Company 652,Materials,-0.04,-0.02,1.19,2.7713,0.08
+Company 653,Materials,-695.13,-0.38,6.14,1.0264,-694.11
+Company 654,Information Technology,-25.73,-0.94,1.13,8.4428,-23.72
+Company 655,Consumer Discretionary,0.04,0.05,2.16,1.7306,0.07
+Company 656,Consumer Staples,0.02,0.06,1.15,2.933,0.03
+Company 657,Health Care,0.14,0.08,0.77,1.7417,0.25
+Company 658,Health Care,0.01,0.01,1.43,2.3548,0.13
+Company 659,Financials,3.84,0.1,3.18,1.6557,4.62
+Company 660,Communication Services,-0.41,-0.17,4.33,1.1584,0.02
+Company 661,Materials,0.08,0.11,1.43,1.8981,0.13
+Company 662,Health Care,-6.07,-0.66,0.99,-20.1582,-5.89
+Company 663,Health Care,-27.37,-0.38,1.59,1.5755,-29.09
+Company 664,Industrials,0.03,0.05,1.74,1.9454,0.05
+Company 665,Materials,-0.38,-0.19,0.14,2.8573,-0.31
+Company 666,Materials,0.03,0.07,1.6,1.5438,0.08
+Company 667,Information Technology,-8.68,-6.92,0.45,2.8899,-8.88
+Company 668,Consumer Discretionary,0.01,0.03,0.95,2.3168,0.06
+Company 669,Health Care,0.08,0.03,2.67,1.482,0.25
+Company 670,Materials,-0.83,-0.13,0.48,-4.5639,-0.07
+Company 671,Materials,-2.21,-0.08,1.05,1.5521,-1.43
+Company 672,Industrials,0.05,0.03,1.1,1.6565,0.18
+Company 673,Health Care,0.09,0.05,7.4,1.1578,0.1
+Company 674,Consumer Discretionary,0.05,0.08,1.33,2.154,0.1
+Company 675,Consumer Discretionary,0.16,0.24,1.12,2.0478,0.25
+Company 676,Communication Services,-0.13,-0.19,3.15,1.435,-0.08
+Company 677,Materials,0.12,0.05,2.57,1.5385,0.41
+Company 678,Information Technology,-0.21,-0.13,0.72,2.845,0.09
+Company 679,Communication Services,0.16,0.12,1.62,1.6714,0.24
+Company 680,Information Technology,-135.83,-42.25,0.06,-0.0429,-118.1
+Company 681,Financials,-0.16,-0.06,3.5,1.0757,0.39
+Company 682,Energy,0.14,0.06,2.78,1.2383,0.24
+Company 683,Health Care,-36.62,-0.83,2.4,1.4731,-34.24
+Company 684,Materials,-15.02,-1.06,0.02,-6.9186,-14.21
+Company 685,Energy,-0.04,-0.06,1.45,2.0127,0
+Company 686,Consumer Discretionary,-0.07,0.01,1.49,2.2408,0.08
+Company 687,Information Technology,-13.71,-2.6,1.28,3.7743,-13.57
+Company 688,Information Technology,-0.38,-0.14,1.95,1.6484,-0.33
+Company 689,Real Estate,-11.25,-0.07,0.81,1.9207,10.97
+Company 690,Materials,0.2,0.16,2.79,1.4814,0.45
+Company 691,Financials,-2.52,-4.23,1.29,3.1158,-2.27
+Company 692,Consumer Discretionary,0.03,0.04,2.34,1.824,0.08
+Company 693,Health Care,-131.6,-0.83,6.9,1.0888,-113.89
+Company 694,Materials,0.08,0.07,1.59,2.562,0.11
+Company 695,Information Technology,-1.87,-0.43,5.71,1.1374,-1.36
+Company 696,Health Care,0.09,0.07,1.18,1.6998,0.16
+Company 697,Communication Services,-2.91,-2.07,5.86,1.1878,-2.6
+Company 698,Information Technology,-75.37,-0.57,22.53,1.0529,-72.68
+Company 699,Information Technology,-4.75,-0.29,1.91,1.0829,-4.37
+Company 700,Energy,-5.67,-0.03,29.31,1.0136,-5.49
+Company 701,Industrials,0.07,0.1,1.11,1.9079,0.14
+Company 702,Financials,0.24,0.25,6.21,1.1682,0.36
+Company 703,Communication Services,-0.14,-0.07,1.33,1.5602,-0.03
+Company 704,Information Technology,0.04,0.02,12.72,1.3825,0.42
+Company 705,Consumer Staples,0.1,0.08,4.85,1.2987,0.18
+Company 706,Communication Services,0.06,0.05,1.41,1.6145,0.15
+Company 707,Materials,-5.32,-1.82,0.06,-1.2795,-4.87
+Company 708,Health Care,0.42,0.07,0.17,2.1358,0.48
+Company 709,Health Care,-9.3,-1.1,1.33,2.2046,-12.65
+Company 710,Information Technology,0.12,0.13,1.38,2.228,0.17
+Company 711,Financials,0.05,0.02,4.49,1.2123,0.09
+Company 712,Information Technology,-3.91,-0.33,1.24,1.1826,-3.79
+Company 713,Industrials,0.09,0.06,4.61,1.5972,0.13
+Company 714,Energy,-0.44,-0.06,0.65,1.7997,-0.08
+Company 715,Energy,-25.74,-0.45,1.36,2.3494,-25.52
+Company 716,Financials,0.16,0.08,1.33,3.461,0.24
+Company 717,Consumer Staples,-1.68,-0.19,9.46,1.1337,-1.28
+Company 718,Materials,0.16,0.07,1.38,1.2925,0.47
+Company 719,Health Care,-0.93,-0.49,4.07,1.2901,-0.88
+Company 720,Industrials,0.06,0.14,1.49,2.3676,0.13
+Company 721,Consumer Discretionary,0.01,0.01,1.37,1.3252,0.09
+Company 722,Information Technology,-0.33,-0.29,0.43,-3.8123,-0.21
+Company 723,Materials,0.11,0.16,1.81,2.8333,0.21
+Company 724,Communication Services,0.09,0.04,1.6,1.8319,0.23
+Company 725,Information Technology,-6.99,-0.53,15.25,1.0707,-7.1
+Company 726,Health Care,-2.47,-1.2,2.23,1.6971,-2.37
+Company 727,Health Care,0.2,0.16,0.94,1.2623,0.33
+Company 728,Information Technology,-10.54,-0.36,14.65,1.0298,-10.03
+Company 729,Information Technology,-33.42,-1.07,1.89,1.3887,-33.33
+Company 730,Materials,0.05,0.06,1.2,2.2184,0.1
+Company 731,Materials,0.44,0.02,42.57,1.0413,0.29
+Company 732,Energy,0.04,0.04,0.85,2.0508,0.1
+Company 733,Materials,0.05,0.05,1.22,2.4139,0.14
+Company 734,Consumer Discretionary,0,0,1.04,3.3331,0.01
+Company 735,Energy,0.23,0.05,1.21,2.0663,0.7
+Company 736,Health Care,-6.97,-0.64,14.41,1.0783,-6.86
+Company 737,Industrials,0,0,1.03,5.4306,0
+Company 738,Information Technology,0.11,0.11,0.81,2.1813,0.23
+Company 739,Financials,0.18,0.08,1.05,1.342,0.15
+Company 740,Health Care,-21.64,-0.37,17.34,1.0451,-19.55
+Company 741,Industrials,-0.05,-0.06,1.09,2.463,0.04
+Company 742,Materials,0.2,0.07,5.08,1.181,0.41
+Company 743,Industrials,-0.68,-0.39,1.29,1.7106,-0.12
+Company 744,Health Care,-0.88,-0.3,2.31,1.1709,-0.84
+Company 745,Health Care,-90.81,-0.31,11.12,1.0935,-90.3
+Company 746,Financials,2.66,0.26,4.44,1.1984,2.85
+Company 747,Health Care,-0.14,-0.06,3.43,1.6988,-0.05
+Company 748,Health Care,0.06,0.06,1.79,1.7892,0.13
+Company 749,Materials,-136.42,-0.76,7.73,1.152,-135.35
+Company 750,Financials,0.15,0.07,2.11,1.1894,0.26
+Company 751,Health Care,-196.99,-1.31,8.19,1.1389,-198.01
+Company 752,Financials,0.36,0.18,1.46,1.2223,0.48
+Company 753,Energy,-1.35,-0.12,3.87,3.8368,-0.75
+Company 754,Utilities,0.36,0.08,1.08,1.8427,0.72
+Company 755,Energy,0.29,0.1,1.06,1.3787,0.39
+Company 756,Industrials,-0.07,-0.05,7.4,1.1453,0
+Company 757,Financials,0.07,0.03,1.11,1.3632,0.23
+Company 758,Consumer Discretionary,-0.18,-0.05,1.35,1.3815,-0.04
+Company 759,Health Care,0.08,0.04,1.88,2.0556,0.13
+Company 760,Materials,0.06,0.06,0.95,3.1732,0.13
+Company 761,Materials,0.05,0.18,0.66,5.5657,0.25
+Company 762,Consumer Discretionary,0.01,0.02,2.08,1.353,0.04
+Company 763,Information Technology,-1.96,-5.12,0.9,-66.7255,-1.9
+Company 764,Health Care,-1.22,-0.25,6.2,1.175,-0.99
+Company 765,Financials,-81.93,-1.22,2.11,1.5659,-81.99
+Company 766,Materials,-1.91,-0.02,3.01,1.5499,-1.12
+Company 767,Materials,-8.19,-0.06,0.31,7.1874,-10.74
+Company 768,Health Care,0.35,0.23,5.84,1.2331,0.62
+Company 769,Consumer Discretionary,0.1,0.07,2.86,1.3022,0.16
+Company 770,Financials,0.22,0.09,6.42,2.4067,0.39
+Company 771,Financials,1.53,0.22,6.58,1.0693,1.53
+Company 772,Materials,0.16,0.22,1.18,1.3952,0.17
+Company 773,Health Care,-1.05,-0.2,21.44,1.0479,-1.06
+Company 774,Communication Services,0.04,0.03,1.28,1.4858,0.11
+Company 775,Real Estate,0.17,0.06,1.89,1.6845,0.29
+Company 776,Industrials,0.03,0.09,1.3,1.6912,0.06
+Company 777,Materials,0.02,0.02,1.78,1.9414,0.04
+Company 778,Information Technology,0.2,0.35,2.1,1.317,0.02
+Company 779,Industrials,-0.03,-0.04,2.87,1.5321,0.01
+Company 780,Communication Services,-0.12,-0.17,0.72,5.0967,0.03
+Company 781,Information Technology,0.07,0.09,1.99,1.495,0.17
+Company 782,Financials,0.27,0.12,1.73,1.8839,0.39
+Company 783,Information Technology,-0.07,-0.03,1.13,1.3525,0.05
+Company 784,Communication Services,0.12,0.26,2.33,2.09,0.14
+Company 785,Materials,-0.05,-0.02,1.49,1.3484,0.06
+Company 786,Materials,-40.17,-0.3,7.52,1.1581,-39.49
+Company 787,Information Technology,-6.86,-2.51,1.84,3.6213,-6.81
+Company 788,Energy,-3.05,-0.26,1.15,24.487,-0.93
+Company 789,Materials,-1.54,-0.18,11.79,1.0525,-1.49
+Company 790,Financials,0.3,0.05,1.15,4.6181,0
+Company 791,Health Care,0.12,0.17,0.84,1.799,0.23
+Company 792,Industrials,0.01,0.01,0.6,1.5466,0.04
+Company 793,Industrials,0.08,0.05,4.55,1.5885,0.18
+Company 794,Consumer Staples,0.04,0.04,2.09,1.4191,0.1
+Company 795,Financials,0.58,0.52,9.08,1.0844,0.81
+Company 796,Financials,-28.04,-0.77,0.36,1.4292,-28.76
+Company 797,Information Technology,-3.25,-1.76,4.78,1.186,-3.09
+Company 798,Consumer Discretionary,0.23,0.22,4.43,1.129,0.33
+Company 799,Health Care,-3.59,-0.51,4.36,4.5059,-3.13
+Company 800,Information Technology,-0.37,-0.08,1.24,3.7721,-0.3
+Company 801,Industrials,0.07,0.07,0.49,4.71,0.2
+Company 802,Industrials,-0.05,-0.05,1.04,5.5634,0.03
+Company 803,Industrials,0.12,0.12,1.86,1.5042,0.19
+Company 804,Communication Services,0.04,0.03,3.26,2.1216,0.23
+Company 805,Real Estate,-2.15,-0.01,0.01,-21.5517,0.37
+Company 806,Real Estate,-1.16,-0.11,1.8,5.2471,-1.05
+Company 807,Financials,-0.06,-0.01,0.64,3.7477,-0.06
+Company 808,Information Technology,-0.16,-0.4,0.94,-5.3961,-0.13
+Company 809,Health Care,0.05,0.06,1.09,2.3003,0.11
+Company 810,Industrials,0.03,0.02,1.75,1.4672,0.17
+Company 811,Communication Services,-4.8,-0.85,2.58,1.592,-4.78
+Company 812,Materials,-3.68,-0.3,1.09,1.2204,-3.68
+Company 813,Consumer Discretionary,0.05,0.09,0.51,2.0487,0.11
+Company 814,Consumer Discretionary,-0.06,-0.19,0.98,2.0157,-0.04
+Company 815,Materials,-2.61,-1.59,2.28,1.4591,-2.6
+Company 816,Information Technology,-0.66,-0.17,6.72,1.1255,-0.53
+Company 817,Materials,-0.54,-0.05,30.72,1.0115,-0.01
+Company 818,Consumer Discretionary,0.24,0.08,1.4,8.9167,0.72
+Company 819,Information Technology,-0.93,-0.32,3.31,1.4523,-0.75
+Company 820,Information Technology,-3.4,-1.05,2.73,1.1219,-2.91
+Company 821,Information Technology,-0.1,-0.08,1.85,1.7099,0.13
+Company 822,Materials,-0.04,-0.02,2.62,1.4702,0.03
+Company 823,Consumer Discretionary,0.06,0.06,0.87,3.3006,0.12
+Company 824,Communication Services,0.32,0.17,0.93,1.8309,0.52
+Company 825,Materials,-0.14,-0.05,0.97,2.1325,0.02
+Company 826,Communication Services,-0.01,0,7.4,1.1174,0.07
+Company 827,Health Care,0.34,0.04,0.02,9.7504,0.69
+Company 828,Industrials,0.08,0.1,3.41,1.2358,0.14
+Company 829,Communication Services,-0.88,-0.96,0.73,6.8261,-0.71
+Company 830,Industrials,0.06,0.07,0.75,1.3796,0.14
+Company 831,Materials,-8.04,-0.82,0.06,-6.6729,-6.39
+Company 832,Real Estate,26.2,0.05,0.58,1.7791,34.85
+Company 833,Consumer Discretionary,0.19,0.14,0.36,3.7997,0.06
+Company 834,Information Technology,-6.36,-0.27,11.41,1.0299,-6.33
+Company 835,Industrials,0.01,0.01,2.44,1.8926,0.09
+Company 836,Industrials,-6.94,-0.49,6.94,1.1655,-6.62
+Company 837,Industrials,-6.96,-0.21,2.3,1.1354,-5.96
+Company 838,Health Care,-9.01,-1.04,2.37,1.7055,-8.42
+Company 839,Health Care,0.06,0.06,1.19,3.8052,0.14
+Company 840,Consumer Discretionary,0.01,0.03,1.2,3.1578,0.03
+Company 841,Information Technology,0.02,0.04,1.44,2.1216,0.03
+Company 842,Health Care,0.08,0.05,3.91,1.1334,-0.02
+Company 843,Consumer Staples,0.02,0.04,1.22,1.9396,0.05
+Company 844,Materials,0.22,0.11,1.98,1.8254,0.42
+Company 845,Information Technology,0.15,0.12,1.08,5.2512,0.47
+Company 846,Health Care,0.2,0.16,2.08,1.4881,0.35
+Company 847,Materials,0.09,0.1,3.64,1.594,0.37
+Company 848,Materials,0.49,0.18,8.23,1.2041,0.72
+Company 849,Utilities,-23.35,-0.37,1.66,1.6942,-22.81
+Company 850,Information Technology,-80.98,-1.95,1.36,1.4518,-74.32
+Company 851,Health Care,-1.85,-0.68,2.24,1.2395,-1.72
+Company 852,Communication Services,-1.22,-0.64,3.48,1.2165,-1.04
+Company 853,Industrials,-9.46,-2.85,1.95,8.125,-8.94
+Company 854,Real Estate,0.02,0.26,84.61,1.012,0.02
+Company 855,Materials,0.29,0.21,3.78,1.2916,0.46
+Company 856,Energy,-1.34,-0.09,1.2,39.0505,-0.63
+Company 857,Materials,-0.01,0,1.57,1.6005,0.02
+Company 858,Consumer Discretionary,0.38,0.17,6.19,1.3536,0.43
+Company 859,Industrials,-0.04,-0.2,0.75,-6.0042,0.01
+Company 860,Information Technology,0.01,0.01,1.72,1.4973,0.06
+Company 861,Materials,0.01,0.01,1.83,1.3999,-0.01
+Company 862,Industrials,-0.16,-0.19,4.52,1.2633,-0.14
+Company 863,Industrials,0.08,0.03,3.89,1.651,0.17
+Company 864,Communication Services,-1.58,-9.95,0.2,-0.266,-1.55
+Company 865,Information Technology,0.06,0.05,1.29,1.4397,0.1
+Company 866,Financials,-3.34,-0.48,7.29,1.0879,-3.05
+Company 867,Materials,0.19,0.1,2.9,1.4131,0.34
+Company 868,Information Technology,-4009.87,-8.95,3.42,1.4132,-4479.06
+Company 869,Consumer Staples,-0.18,-0.1,5.55,1.1708,-0.18
+Company 870,Materials,0.15,0.15,3.1,1.3727,0.26
+Company 871,Communication Services,-12860.1,-0.34,5.8,1.0762,-11104.3
+Company 872,Materials,-0.35,-0.04,4.71,1.0334,-0.44
+Company 873,Consumer Staples,1.26,-0.01,0.42,-0.7109,-0.74
+Company 874,Materials,0.33,0.28,4.28,1.2332,0.42
+Company 875,Information Technology,-0.06,-0.04,2.36,1.6107,-0.02
+Company 876,Real Estate,2.71,0.04,0.25,1.7127,4.23
+Company 877,Information Technology,-1.44,-1.11,0.55,-4.9604,-1.33
+Company 878,Real Estate,112.33,0.05,0.75,1.5712,146.44
+Company 879,Consumer Discretionary,-2.27,-1.3,1.24,3.1581,-2.27
+Company 880,Health Care,-6.56,-1.21,3.72,1.3173,-6.21
+Company 881,Communication Services,0.02,0.03,1.32,4.33,0.21
+Company 882,Real Estate,0.11,0.05,5.55,1.6326,0.15
+Company 883,Health Care,0.08,0.07,5.16,1.1774,0.16
+Company 884,Materials,-0.49,-0.22,2.69,1.1553,-0.4
+Company 885,Health Care,-4.13,-0.41,7.02,1.0991,-4.02
+Company 886,Information Technology,-1,-0.45,0.88,1.6848,-0.96
+Company 887,Energy,-0.08,0.01,1.07,2.039,0.59
+Company 888,Industrials,0.18,0.08,0.82,2.3122,0.35
+Company 889,Information Technology,0.17,0.09,3.17,1.5272,0.31
+Company 890,Financials,0.03,0.02,1.08,4.1255,0.06
+Company 891,Materials,-96.16,-0.33,26.04,1.0291,-100.33
+Company 892,Materials,-0.1,-0.11,1.78,2.4628,-0.07
+Company 893,Industrials,-1.32,-3.3,0.48,-1.597,-1.14
+Company 894,Consumer Discretionary,0.1,0.13,2.27,1.9029,0.2
+Company 895,Consumer Staples,-0.54,-0.39,1.53,2.9231,-0.46
+Company 896,Financials,-0.2,-0.09,1.31,1.6123,-0.23
+Company 897,Materials,0.2,0.19,3.82,1.261,0.5
+Company 898,Energy,-1.6,-1,1.37,3.5327,-1.58
+Company 899,Industrials,0.25,0.11,0.81,2.7465,0.49
+Company 900,Consumer Discretionary,-0.18,-0.05,2.43,5.5308,-0.04
+Company 901,Consumer Staples,0.03,0.05,2.07,1.7928,0.07
+Company 902,Materials,0.03,0.07,1.75,1.4629,0.06
+Company 903,Information Technology,-0.19,-0.03,15.68,1.0289,-0.23
+Company 904,Real Estate,0.48,0.05,0.31,1.8592,0.5
+Company 905,Consumer Discretionary,0.06,0.04,0.67,1.3938,0.19
+Company 906,Consumer Discretionary,-0.31,-0.88,0.25,-0.4807,-0.2
+Company 907,Consumer Discretionary,0.11,0.05,3.12,1.9699,0.21
+Company 908,Health Care,0.09,0.07,1.42,1.9148,0.18
+Company 909,Consumer Discretionary,0.04,0.09,3.14,1.6585,0.08
+Company 910,Consumer Discretionary,-0.03,-0.01,0.97,1.3645,0
+Company 911,Consumer Staples,0.1,0.05,4.49,1.3642,0.25
+Company 912,Health Care,0.01,0.04,1.51,2.6909,0.02
+Company 913,Health Care,-0.69,-0.13,0.67,2.2111,-0.8
+Company 914,Consumer Discretionary,0.01,0.06,1.03,123.0682,0.03
+Company 915,Industrials,0.25,0.14,1.15,1.5873,0.48
+Company 916,Information Technology,-3.24,-1.13,0.82,1.7845,-2
+Company 917,Consumer Discretionary,-0.21,-0.35,0.82,11.1207,-0.13
+Company 918,Industrials,-0.03,0.01,0.23,4.794,0.45
+Company 919,Consumer Discretionary,-0.74,-0.62,0.35,-1.4482,-0.5
+Company 920,Consumer Discretionary,0.17,0.07,0.67,2.1973,0.34
+Company 921,Information Technology,-0.33,-0.16,1.95,1.4697,0.01
+Company 922,Consumer Staples,-3.25,-0.26,1.13,1.0854,-2.89
+Company 923,Information Technology,0.1,0.07,3.14,1.2736,0.13
+Company 924,Communication Services,0.14,0.09,0.81,1.4639,0.34
+Company 925,Communication Services,0.07,0.02,0.85,1.3157,0.24
+Company 926,Consumer Discretionary,0.11,0.08,0.96,1.9745,0.22
+Company 927,Communication Services,0.05,0.06,2.09,1.4643,0.08
+Company 928,Materials,0.06,0.08,3.99,1.235,0.12
+Company 929,Consumer Staples,0.08,0.1,1.01,1.8686,0.16
+Company 930,Information Technology,-42.74,-1.87,3.26,1.2761,-40.73
+Company 931,Materials,-200.37,-0.86,1.26,1.1501,-198.11
+Company 932,Information Technology,-0.52,-0.25,6.48,1.1686,-0.49
+Company 933,Information Technology,-0.08,-0.01,0.88,4.0382,0.3
+Company 934,Energy,0.03,0.07,1.69,2.2975,0.12
+Company 935,Information Technology,-99.87,-1.02,3.08,1.3862,-96.36
+Company 936,Industrials,-0.02,-0.05,2.15,1.4966,-0.02
+Company 937,Consumer Discretionary,0.07,0.14,2.45,1.7078,0.12
+Company 938,Information Technology,-0.99,-0.51,2.25,1.7061,-0.97
+Company 939,Health Care,0.7,0.04,0.23,2.8263,0.85
+Company 940,Energy,0.32,0.08,2.69,1.2197,0.57
+Company 941,Health Care,-0.13,-0.17,2.51,1.3945,-0.11
+Company 942,Industrials,-0.44,-0.43,1.49,2.1691,-0.45
+Company 943,Information Technology,-1.34,-0.32,3.46,1.341,-1.52
+Company 944,Energy,-17.8,-12.74,0.03,-0.0335,-13.79
+Company 945,Communication Services,0.12,0.14,1.12,2.2187,0.29
+Company 946,Health Care,-2.7,-0.18,11.13,1.0982,-2.9
+Company 947,Information Technology,0.05,0.05,2.96,1.3279,0.12
+Company 948,Industrials,0.05,0.06,2.2,1.501,0.1
+Company 949,Information Technology,0.04,0.06,1.94,1.7801,0.07
+Company 950,Information Technology,-7.76,-1.49,3.01,1.4588,-7.68
+Company 951,Real Estate,0.07,0.06,1.66,1.5257,0.18
+Company 952,Consumer Discretionary,0.06,0.09,2.35,1.7476,0.12
+Company 953,Consumer Discretionary,0.05,0.08,1.12,1.5216,0.08
+Company 954,Real Estate,0.44,0.02,1.89,1.0559,0.8
+Company 955,Industrials,0.06,0.11,1.53,1.7303,0.1
+Company 956,Energy,-18.01,-0.14,0.88,-20.7063,-20.1
+Company 957,Industrials,0.05,0.03,1.15,1.6008,0.31
+Company 958,Communication Services,0.05,0.05,2.12,1.4177,0.18
+Company 959,Communication Services,-0.15,-0.09,4.41,1.2648,-0.09
+Company 960,Information Technology,-0.69,-0.21,0.32,2.1196,-0.12
+Company 961,Energy,0.17,0.05,1.19,2.3539,0.55
+Company 962,Health Care,-12.85,-0.32,0.28,1.4516,-13.82
+Company 963,Consumer Discretionary,0.06,0.09,1.38,2.2055,0.12
+Company 964,Materials,-0.64,-0.33,0.42,-2.102,-0.2
+Company 965,Health Care,-12.02,-1.86,0.59,-1.4536,-11.34
+Company 966,Consumer Discretionary,-0.4,-0.08,1.16,1.8773,0.05
+Company 967,Materials,-18.83,-0.04,0.69,1.0246,-16.94
+Company 968,Information Technology,-7.28,-1.9,0.73,-3.0826,-6.62
+Company 969,Industrials,0.11,0.07,1.93,2.156,0.22
+Company 970,Communication Services,-0.34,-0.3,0.52,3.2159,-0.21
+Company 971,Financials,-8.59,-1.23,5.04,1.2665,-9.25
+Company 972,Materials,-0.01,0,1.96,1.6157,0.13
+Company 973,Communication Services,0.09,0.09,1.64,3.5822,0.24
+Company 974,Energy,-4.47,-0.06,5.06,1.0618,-2.71
+Company 975,Industrials,0.02,0.03,1.8,1.6291,0.05
+Company 976,Communication Services,0.16,0.08,2.01,2.485,0.24
+Company 977,Energy,-1.58,-0.26,4.61,1.2341,-1.44
+Company 978,Industrials,0.24,0.05,1.4,181.5605,0.81
+Company 979,Information Technology,-3.11,-1.02,6.72,1.1744,-3.13
+Company 980,Industrials,-3.94,-8.46,0.07,-0.0859,-2.42
+Company 981,Consumer Discretionary,0.05,0.02,0.49,1.7877,0.17
+Company 982,Energy,0.29,0.16,5.39,1.5856,0.59
+Company 983,Materials,-5.68,-0.29,4.46,1.074,-10.06
+Company 984,Information Technology,-0.04,-0.07,0.62,60.3685,0.03
+Company 985,Materials,0.23,0.16,8.98,1.1287,0.48
+Company 986,Industrials,0.15,0.04,0.82,3.9057,0.52
+Company 987,Information Technology,0.01,0,1.08,1.3663,-0.07
+Company 988,Consumer Discretionary,0.09,0.08,1.08,2.3167,0.19
+Company 989,Health Care,-0.6,-0.15,8.28,1.1206,-0.52
+Company 990,Energy,-0.44,-0.21,0.89,-15.9862,-0.18
+Company 991,Energy,-0.13,0.02,0.41,15.3281,0.19
+Company 992,Energy,-4.1,-1.14,0.06,-0.1387,-2.17
+Company 993,Consumer Staples,-0.04,-0.03,2.44,1.2029,-0.03
+Company 994,Consumer Discretionary,-0.1,0.01,1.41,2.981,-1.59
+Company 995,Information Technology,-0.55,-0.16,2.04,1.3761,-0.45
+Company 996,Consumer Staples,0.12,0.07,3.53,1.6287,0.22
+Company 997,Health Care,-2.78,-0.22,23.39,1.1659,-2.71
+Company 998,Communication Services,-12.87,-0.91,10.31,1.1074,-13.02
+Company 999,Real Estate,-6.82,-0.11,0.68,1.1275,-6.94
+Company 1000,Materials,0.21,0.19,2.01,1.9946,0.24
+Company 1001,Information Technology,-6.05,-2.49,0.34,-0.5041,-3.89
+Company 1002,Materials,-914.04,-0.5,8.58,1.1035,-907.83
+Company 1003,Communication Services,0.15,0.1,0.8,2.8553,0.4
+Company 1004,Utilities,0.06,0.02,1.54,2.3366,0.69
+Company 1005,Health Care,-70.87,-0.18,4.35,1.4499,-82.05
+Company 1006,Energy,-32.27,-0.1,48.14,1.0405,-40.82
+Company 1007,Utilities,0.11,0.03,3.12,4.0414,-0.05
+Company 1008,Information Technology,0.17,0.18,2.03,1.5658,0.24
+Company 1009,Consumer Discretionary,0.06,0.08,0.66,2.0195,0.13
+Company 1010,Information Technology,-0.42,-0.47,1.23,2.7059,-0.29
+Company 1011,Communication Services,-2.7,-0.94,4.59,1.386,-2.7
+Company 1012,Communication Services,-0.45,-0.38,0.42,-0.6493,-0.2
+Company 1013,Utilities,0.04,0.16,1.12,4.5604,0.02
+Company 1014,Energy,-6.22,-0.32,15.03,1.2276,-6
+Company 1015,Communication Services,0.16,0.08,0.26,1.936,0.34
+Company 1016,Industrials,-0.03,-0.03,2.35,1.2774,-0.02
+Company 1017,Industrials,-0.17,-0.05,0.53,20.1353,0
+Company 1018,Consumer Discretionary,0,0,1.25,2.0073,-0.01
+Company 1019,Consumer Discretionary,0.08,0.06,10.46,2.8886,0.16
+Company 1020,Consumer Discretionary,0.02,0.07,1.96,1.5433,0.05
+Company 1021,Materials,-0.08,-0.06,0.46,1.8113,0.07
+Company 1022,Information Technology,0.04,0.01,0.53,1.3429,0.05
+Company 1023,Consumer Discretionary,-0.27,-0.39,2.08,1.4658,-0.23
+Company 1024,Health Care,-3.65,-0.4,8.14,1.0493,-3.75
+Company 1025,Industrials,0.11,0.16,2.11,2.2795,0.18
+Company 1026,Materials,-1.33,-0.29,4.55,1.2952,-1.32
+Company 1027,Information Technology,-7.09,-3.1,0.8,-6.7654,-6.95
+Company 1028,Consumer Discretionary,0.07,0.32,2.72,1.9908,0.09
+Company 1029,Consumer Staples,0.14,0.07,2.15,1.5576,0.25
+Company 1030,Information Technology,-5.83,-0.62,3.88,1.2032,-5.22
+Company 1031,Information Technology,-0.25,-0.35,1.6,11.8937,-0.15
+Company 1032,Health Care,0.58,0.6,4.85,1.3809,0.7
+Company 1033,Information Technology,-2.28,-0.73,1.8,1.249,-1.84
+Company 1034,Health Care,-0.9,-0.36,7.95,1.1096,-0.77
+Company 1035,Consumer Discretionary,0.03,0.02,1.35,1.6116,0.06
+Company 1036,Communication Services,-1.24,-0.75,1.51,1.4665,-0.71
+Company 1037,Energy,0.08,0.13,1.48,1.9183,0.23
+Company 1038,Real Estate,0.19,0.05,3.48,1.1843,0.4
+Company 1039,Real Estate,10.42,0.03,0.09,4.7476,15.25
+Company 1040,Industrials,-31.28,-4.57,2.38,1.5812,-31.06
+Company 1041,Industrials,-0.08,-0.05,0.78,5.6515,0.1
+Company 1042,Real Estate,7.89,0.04,0.24,1.4439,10.08
+Company 1043,Energy,0.01,0.05,1.18,1.8565,0.03
+Company 1044,Industrials,0.07,0.06,1.86,1.7544,0.12
+Company 1045,Information Technology,0.1,0.06,2.21,1.387,0.2
+Company 1046,Health Care,-2.05,-0.62,3.69,1.3377,-2.07
+Company 1047,Materials,0,0,1.26,3.8469,-0.89
+Company 1048,Information Technology,0.15,0.03,1.22,2.4753,0.42
+Company 1049,Materials,0,0.01,1.26,3.3625,0
+Company 1050,Industrials,-0.2,-0.09,0.41,4.3246,-0.09
+Company 1051,Industrials,-0.74,-0.68,0.62,3.1836,-0.74
+Company 1052,Health Care,0.06,0.07,2.18,1.5941,0.12
+Company 1053,Information Technology,-1.08,-0.5,1.5,1.5735,-0.92
+Company 1054,Real Estate,0.1,0.09,4.34,1.8982,0.16
+Company 1055,Industrials,-7.13,-0.12,0.25,18.8189,-5.36
+Company 1056,Consumer Discretionary,-0.05,-0.04,1.85,1.4828,0
+Company 1057,Energy,0.01,0.03,1.82,1.7543,0.05
+Company 1058,Communication Services,-1.83,-3.99,3.01,1.4148,-1.74
+Company 1059,Communication Services,0.03,0.02,0.83,1.7968,0.19
+Company 1060,Real Estate,0.01,0.01,1.36,4.3113,0.07
+Company 1061,Information Technology,-1.59,-0.83,2.43,1.3574,-1.58
+Company 1062,Utilities,-0.58,-0.25,4.22,1.1925,-0.64
+Company 1063,Information Technology,-136.77,-2.53,0.85,-5.3552,-136.51
+Company 1064,Communication Services,0.18,0.15,1.02,3.389,0.26
+Company 1065,Industrials,0.02,0.02,1.34,1.8896,0.1
+Company 1066,Health Care,0.12,0.07,0.78,1.9234,0.25
+Company 1067,Consumer Discretionary,0.03,0.12,0.87,2.0093,0.06
+Company 1068,Health Care,-5.08,-1.61,7.32,1.1577,-5.11
+Company 1069,Real Estate,4.78,0.06,0.24,1.5746,6.09
+Company 1070,Materials,2.24,0.04,236.28,1.0043,2.24
+Company 1071,Consumer Discretionary,0.04,0.04,2.19,1.5719,0.1
+Company 1072,Consumer Staples,0.18,0.04,1.22,1.5164,0.4
+Company 1073,Energy,-2.35,-0.37,1.73,3.2496,-1.91
+Company 1074,Consumer Discretionary,0.06,0.04,0.93,2.447,0.12
+Company 1075,Energy,-13.2,-2.87,1.01,1.1645,-12.69
+Company 1076,Consumer Discretionary,0.05,0.09,0.87,1.6231,0.09
+Company 1077,Materials,0.11,0.17,1.25,3.0134,0.21
+Company 1078,Materials,-0.11,-0.06,1.23,1.6443,-0.06
+Company 1079,Consumer Staples,-13.62,-0.31,26.17,1.0459,-13.63
+Company 1080,Energy,0.23,0.12,1.17,1.2694,0.41
+Company 1081,Consumer Discretionary,-6.87,-1.21,1.9,1.3806,-5.18
+Company 1082,Materials,-2.73,-0.07,0.04,-10.3019,-1.21
+Company 1083,Consumer Staples,-0.08,-0.05,0.38,2.9156,0.02
+Company 1084,Materials,-3.02,-0.23,0.16,2.7507,-1.98
+Company 1085,Industrials,0.08,0.12,1.71,1.5816,0.13
+Company 1086,Consumer Discretionary,-0.23,-0.25,0.4,1.7975,-0.12
+Company 1087,Utilities,-1.1,-0.06,3.12,1.2135,-1.93
+Company 1088,Consumer Staples,0.03,0.04,0.61,3.1312,0.16
+Company 1089,Information Technology,-0.47,-5.35,0.01,-0.0115,-0.45
+Company 1090,Consumer Staples,-37.48,-0.43,3.83,1.2885,-32.46
+Company 1091,Energy,0,0.01,1.47,2.0227,0.08
+Company 1092,Consumer Staples,0.03,0.07,0.78,2.1714,0.06
+Company 1093,Materials,-0.11,-0.16,0.76,2.6142,0.01
+Company 1094,Energy,0.26,0.06,2.31,1.4784,0.71
+Company 1095,Communication Services,0.06,0.04,0.82,2.5058,0.13
+Company 1096,Materials,0.05,0.02,4.37,1.17,0.14
+Company 1097,Materials,-0.23,-0.38,0.67,-12.0505,-0.21
+Company 1098,Information Technology,0.18,0.08,2.02,1.5255,0.35
+Company 1099,Materials,-0.13,-0.05,0.59,1.1382,-0.18
+Company 1100,Financials,-4.01,-0.93,1.69,1.4206,-4
+Company 1101,Information Technology,-1.84,-1.06,1.22,4.3134,-1.85
+Company 1102,Consumer Discretionary,0.11,0.08,10.35,1.0853,0.15
+Company 1103,Information Technology,-4.72,-1.03,2.4,1.6169,-3.91
+Company 1104,Financials,0.05,0.01,2.77,1.0941,0.16
+Company 1105,Industrials,0.08,0.05,2.54,1.1956,0.14
+Company 1106,Information Technology,-0.02,0.01,5.58,2.7464,0.17
+Company 1107,Energy,-8.92,-0.98,1.1,21.3435,-8.88
+Company 1108,Communication Services,0.19,0.09,6.3,1.1304,0.13
+Company 1109,Industrials,0.01,0.01,2.08,1.896,0.01
+Company 1110,Energy,0.17,0.08,2.11,2.1254,0.35
+Company 1111,Financials,-0.01,0.02,1.12,5.2294,0.07
+Company 1112,Information Technology,-13.41,-1.03,3.59,1.1315,-13.47
+Company 1113,Consumer Staples,-0.24,-0.13,7.44,1.1239,-0.2
+Company 1114,Industrials,-2.5,-0.48,0.43,1.5165,-2.56
+Company 1115,Financials,-0.57,-0.04,36.37,9.978,-0.12
+Company 1116,Energy,0.03,0.09,1.41,3.0946,0.08
+Company 1117,Utilities,0.16,0.1,0.94,2.164,0.35
+Company 1118,Industrials,-0.15,-0.1,1.55,1.6256,-0.08
+Company 1119,Materials,0,0,2.1,1.5075,0.4
+Company 1120,Communication Services,-8.46,-0.13,11.48,1.0954,-8.88
+Company 1121,Materials,0.07,0.03,7.23,1.1705,0.01
