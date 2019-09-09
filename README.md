@@ -54,10 +54,17 @@ DBCAN can detect clusters of deferring size and shape by locating regions of hig
 Results
 --------------------
 
+We note postive results regarding the effective creation of clusters for all combinations of ratios in our small dataset without extensive existing knowledge of the industry or companies. The algorithm also showed encouraging signs of highlighting outliers through the identification of 'noise'. See the following example output graphs below where -1 are the points considered as 'noise' for that model.
+
+
+
 ----------
 
 Next Steps
 --------------------
+
+
+
 ----------
 
 Requirements
