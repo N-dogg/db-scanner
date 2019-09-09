@@ -1,3 +1,7 @@
+"""
+Python script to analyse key financial ratios using the DBSCAN algorithm
+"""
+
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import DBSCAN
