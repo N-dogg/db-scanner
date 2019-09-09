@@ -56,8 +56,9 @@ Results
 
 We note postive results regarding the effective creation of clusters for all combinations of ratios in our small dataset without extensive existing knowledge of the industry or companies. The algorithm also showed encouraging signs of highlighting outliers through the identification of 'noise'. See the following example output graphs below where -1 are the points considered as 'noise' for that model.
 
-![Figure_1](align = "right", src = 'https://user-images.githubusercontent.com/43980002/64507233-875c5b80-d31d-11e9-8fb8-07d3b8f0d11f.png')
 ![Figure_2](https://user-images.githubusercontent.com/43980002/64507280-a6f38400-d31d-11e9-8c75-cbcaaa6dd20f.png)
+
+
 
 ----------
 
