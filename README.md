@@ -62,4 +62,8 @@ Next Steps
 
 Requirements
 --------------------
+pandas
+matplotlib
+sklearn
+seaborn
 ----------
