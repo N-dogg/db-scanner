@@ -11,7 +11,7 @@
 
 **Paper 2:** *Clustering-based Anomaly Detection for Microservices*
 
-**Abstract:** Anomaly detection is an important step in the management and monitoring of data centers and cloud computing platforms. The ability to detect anomalous virtual machines before real failures occur results in reduced downtime while operations engineers urgently recover malfunctioning virtual machines, efficient root cause analysis, and improved customer optics in the event said malfunction lead to an outage. Virtual machines could fail at any time, whether in a lab or production system. If there is no anomaly detection system, and a virtual machine in a lab environment fails, the QA and DEV team will have to switch to another environment while the OPS team fixes the failure. The potential impact of failing to detect anomalous virtual machines can result in financial ramifications, both when developing new features and servicing existing ones. This paper presents a model that can efficiently detect anomalous virtual machines both in production and testing environments.
+**Abstract:** Anomaly detection is an important step in the management and monitoring of data centers and cloud computing platforms. This paper presents a model that can efficiently detect anomalous virtual machines both in production and testing environments.
 
 ----------
 
